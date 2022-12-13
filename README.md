@@ -16,7 +16,7 @@ It will start as a basic HTML body and will be levelled up as I complete milesto
 
 ## Goals
 
-  Basic HTML/CSS skeleton
+  Basic HTML/CSS skeleton - done
   Implement Typescript
   Implement React/Vue.js
   Implement SCSS
